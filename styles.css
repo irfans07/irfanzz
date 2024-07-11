@@ -1,0 +1,22 @@
+h1{
+    color:bisque;
+    background-color: brown;
+}
+
+strong{
+    background-color: darkgreen;
+    color: goldenrod;
+}
+body{
+    background: url("BMW.jpg");
+    background-repeat: no-repeat;
+}
+
+.special-heading {
+    color: darkseagreen;
+
+}
+
+{
+    .heading-style
+}
